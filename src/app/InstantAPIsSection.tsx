@@ -86,35 +86,35 @@ const InstantAPIsSection = () => {
                 <Image
                   src={codeImage}
                   alt=""
-                  className="overflow-hidden rounded-xl object-cover "
+                  className="overflow-hidden rounded-xl bg-black object-cover"
                 />
               </TabsContent>
               <TabsContent value="Realtime subscriptions">
                 <Image
                   src={codeImage2}
                   alt=""
-                  className="overflow-hidden rounded-xl object-cover "
+                  className="overflow-hidden rounded-xl bg-black object-cover"
                 />
               </TabsContent>
               <TabsContent value="Create bucket">
                 <Image
                   src={codeImage3}
                   alt=""
-                  className="overflow-hidden rounded-xl object-cover "
+                  className="overflow-hidden rounded-xl bg-black object-cover"
                 />
               </TabsContent>
               <TabsContent value="Invok Edge Function">
                 <Image
                   src={codeImage4}
                   alt=""
-                  className="overflow-hidden rounded-xl object-cover "
+                  className="overflow-hidden rounded-xl bg-black object-cover"
                 />
               </TabsContent>
               <TabsContent value="CURD a record">
                 <Image
                   src={codeImage5}
                   alt=""
-                  className="overflow-hidden rounded-xl object-cover "
+                  className="overflow-hidden rounded-xl bg-black object-cover"
                 />
               </TabsContent>
             </Tabs>

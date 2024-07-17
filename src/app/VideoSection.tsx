@@ -17,8 +17,8 @@ const VideoSection = () => {
             >
               <iframe
                 title="Demo video showcasing Supabase"
-                className="l-0 r-0 absolute h-full w-full overflow-hidden  rounded-md border border-border "
-                src="https://www.youtube.com/embed/xIHjwJgxOmk?si=OA4AnxU6hZDYQb1z&amp;autoplay=0&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
+                className="l-0 r-0 absolute h-full w-full overflow-hidden rounded-md  border border-border bg-black "
+                src="https://www.youtube.com/embed/xIHjwJgxOmk?si=OA4AnxU6hZDYQb1z&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
                 allow="autoplay; modestbranding; encrypted-media"
                 loading="lazy"
               ></iframe>
@@ -29,8 +29,8 @@ const VideoSection = () => {
             >
               <iframe
                 title="Demo video showcasing Supabase"
-                className="l-0 r-0 absolute h-full w-full overflow-hidden  rounded-md border border-border "
-                src="https://www.youtube.com/embed/Hch1mZPZ53A?si=LAH_BB756M1OSWpT&amp;autoplay=0&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
+                className="l-0 r-0 absolute h-full w-full overflow-hidden rounded-md  border border-border bg-black "
+                src="https://www.youtube.com/embed/Hch1mZPZ53A?si=LAH_BB756M1OSWpT&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
                 allow="autoplay; modestbranding; encrypted-media"
                 loading="lazy"
               ></iframe>
@@ -41,8 +41,8 @@ const VideoSection = () => {
             >
               <iframe
                 title="Demo video showcasing Supabase"
-                className="l-0 r-0 absolute h-full w-full overflow-hidden  rounded-md border border-border "
-                src="https://www.youtube.com/embed/vP319FCIZ6Y?si=QET9fpysJRKQcmRi&amp;autoplay=0&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
+                className="l-0 r-0 absolute h-full w-full overflow-hidden rounded-md  border border-border bg-black "
+                src="https://www.youtube.com/embed/vP319FCIZ6Y?si=QET9fpysJRKQcmRi&amp;autoplay=1&amp;loop=1&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;disablekb=1&amp;mute=1&amp;muted=1"
                 allow="autoplay; modestbranding; encrypted-media"
                 loading="lazy"
               ></iframe>

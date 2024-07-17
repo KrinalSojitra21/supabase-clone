@@ -100,14 +100,34 @@ const FooterSection = () => {
                 alt=""
               />
               <div className="flex items-center gap-5  text-muted-foreground">
-                <div className="scale-110">
+                <a
+                  className=" scale-110 hover:text-brand "
+                  type="button"
+                  href="https://x.com/KrinalSojitra"
+                >
                   <TwitterIcon />
-                </div>
-                <div className="scale-110">
+                </a>
+                <a
+                  className=" scale-110 hover:text-brand "
+                  type="button"
+                  href="https://github.com/KrinalSojitra21"
+                >
                   <GithubIcon />
-                </div>
-                <DiscordIcon />
-                <YoutubeIcon />
+                </a>
+                <a
+                  className=""
+                  type="button"
+                  href="https://github.com/KrinalSojitra21"
+                >
+                  <DiscordIcon />
+                </a>
+                <a
+                  className=""
+                  type="button"
+                  href="https://github.com/KrinalSojitra21"
+                >
+                  <YoutubeIcon />
+                </a>
               </div>
             </div>
             <nav className="mt-12 grid grid-cols-1 gap-8 xl:col-span-2 xl:mt-0">
