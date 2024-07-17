@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align='center'>
 
-## Getting Started
+# [Supabase Clone Landing Page](https://supabase-clone-landingpage.vercel.app)
 
-First, run the development server:
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Supabase Clone](https://imgur.com/OXfTkiR.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a clone of the Supabase landing page, built with modern web technologies. It showcases a responsive and visually appealing design, demonstrating proficiency in front-end development and UI/UX principles.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Features ✨
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
+- **Modern UI Components:** Utilizes Radix UI and shadcn for sleek, accessible UI elements.
+- **Type-Safe Development:** Leverages TypeScript for enhanced code quality and developer experience.
+- **Customizable Styling:** Employs Tailwind CSS for flexible and efficient styling.
+- **Code Quality Tools:** Integrates ESLint and Prettier for consistent code formatting and quality.
+- **Optimized Performance:** Built on Next.js 13 for optimal loading speeds and SEO benefits.
 
-## Learn More
+## Tech Stack 💻
 
-To learn more about Next.js, take a look at the following resources:
+**This Supabase clone landing page is built using the following technologies:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js 13:** A React framework for building efficient and scalable web applications.
+- **TypeScript:** Adds static typing to JavaScript, enhancing code quality and developer productivity.
+- **Radix UI:** Provides a set of accessible and customizable UI primitives.
+- **shadcn:** A collection of re-usable components built with Radix UI and Tailwind CSS.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **ESLint:** A tool for identifying and reporting on patterns in JavaScript/TypeScript.
+- **Prettier:** An opinionated code formatter ensuring consistent code style.
+- **clsx:** A tiny utility for constructing className strings conditionally.
+- **tailwind-merge:** A utility function to efficiently merge Tailwind CSS classes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<div align='center'>
 
-## Deploy on Vercel
+### Click [here](https://supabase-clone-landingpage.vercel.app) to visit the live demo website.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
